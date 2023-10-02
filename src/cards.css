@@ -1,0 +1,25 @@
+.breed-select {
+  margin: 0 auto;
+  max-width: 640px;
+}
+
+.cat-info {
+  margin: 30px auto 0;
+  max-width: 640px;
+}
+
+.cat-info__img {
+  max-width: 640px;
+}
+
+.cat-info__name {
+  max-width: 100%;
+}
+
+.cat-info__descr {
+  max-width: 100%;
+}
+
+.cat-info__text {
+  max-width: 100%;
+}
